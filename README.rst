@@ -1,5 +1,6 @@
 http-parser
 -----------
+(C parser re-generated for Python 3.11)
 
 HTTP request/response parser for Python compatible with Python 2.x
 (>=2.7), Python 3 and Pypy. If possible a C parser based on
